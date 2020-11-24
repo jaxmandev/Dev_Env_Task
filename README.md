@@ -1,5 +1,3 @@
-git@github.com:jaxmandev/Dev_Env_Task.git
-
 # Dev Environment set-up with Vagrant
 
 1. Installation and Setup for Vagrant, VirtualBox, and Ruby
